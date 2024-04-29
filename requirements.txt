@@ -1,0 +1,14 @@
+requests
+pandas
+aiohttp
+numpy
+matplotlib
+seaborn
+statistics
+plotly
+scipy
+numpy
+openpyxl
+scikit-learn
+# sklearn.metrics
+streamlit
