@@ -15,4 +15,5 @@
     relationships between classes
 
     4.Polymorphism : Polymorphism is one of the core concepts in OOP languages and describes the concept
-    of using different classes with the same interface.
+    of using different classes with the same interface. In other words, It is the ability of objects to 
+    take on different forms or behave in different ways depending on the context in which they are used.
