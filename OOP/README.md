@@ -5,3 +5,7 @@
     so users cannot access state values for all of the variables of a particular object. Encapsulation can 
     be used to hide both data members and data functions or methods associated with an instantiated class 
     or object.
+
+    2.Abstraction : Abstraction in OOPS is used to hide unnecessary information and display only necessary 
+    information to the users interacting. It is essential to represent real-world objects in a simplified 
+    manner for users to interact easily
