@@ -1,7 +1,7 @@
 # About Object Oriented Paradigm(OOP)
   - C++ is an object-oriented programming language.
     
-      1.Everything within a C++ program is an objects
+      1. Everything within a C++ program is an objects
   ## Principles's of OOP :
     1. Encapsulation : Encapsulation is a way to restrict the direct access to some components of an object, 
     so users cannot access state values for all of the variables of a particular object. Encapsulation can 
@@ -19,3 +19,7 @@
     4.Polymorphism : Polymorphism is one of the core concepts in OOP languages and describes the concept
     of using different classes with the same interface. In other words, It is the ability of objects to 
     take on different forms or behave in different ways depending on the context in which they are used.
+
+  ## Two Types of objects exists :
+    - Fields: Store Data
+    - Procedure: Store code
