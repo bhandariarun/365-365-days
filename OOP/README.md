@@ -26,5 +26,5 @@
     
 
   ## Args vs Kwargs
-    -  Arges : It is stands for arguments that are passed to the function
+    - Args : It is stands for arguments that are passed to the function
     - Kwagrs : It stands for keyword arguments which are passed along with the values into the functions
