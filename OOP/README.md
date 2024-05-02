@@ -134,7 +134,7 @@
 
       // As shown, to change the value, we have to use a setter function i.e setMaxPrice() which takes price as a parameter.
 
-  ## Polymorphism
+  ## Python Polymorphism
       class Polygon:
         // method to render a shape
         def render(self):
