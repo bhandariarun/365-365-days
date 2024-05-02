@@ -130,7 +130,7 @@
 
       c.__maxprice = 1000
 
-      // Here, we have tried to modify the value of __maxprice outside of the class. However, since __maxprice is a private           variable, this modification is not seen on the output.
+      // Here, we have tried to modify the value of __maxprice outside of the class. However, since __maxprice is a private variable, this modification is not seen on the output.
 
       // As shown, to change the value, we have to use a setter function i.e setMaxPrice() which takes price as a parameter.
 
