@@ -83,6 +83,17 @@
         
         // Calling member of the derived class
         dog1.bark();
+        
+        Output 
+        I can eat!
+        I can sleep!
+        I can bark! Woof woof!!
+
+        // Here, dog1 (the object of derived class Dog) can access members of the base class Animal. It's because Dog is               inherited from Animal.
+
+        // Calling members of the Animal class
+        dog1.eat()
+        dog1.sleep()
 
 
   ## Python Encapsulation
