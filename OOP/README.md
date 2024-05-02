@@ -119,3 +119,18 @@
       c.setMaxPrice(1000)
       c.sell()
 
+      // Output
+      Selling Price: 900
+      Selling Price: 900
+      Selling Price: 1000
+
+      // In the above program, we defined a Computer class.
+
+      // We used __init__() method to store the maximum selling price of Computer. Here, notice the code
+
+      c.__maxprice = 1000
+
+      // Here, we have tried to modify the value of __maxprice outside of the class. However, since __maxprice is a private           variable, this modification is not seen on the output.
+
+      // As shown, to change the value, we have to use a setter function i.e setMaxPrice() which takes price as a parameter.
+
