@@ -179,4 +179,5 @@
     
     True - the body of the if statement executes.
     False - the body of the if statement is skipped from execution.
-  https://github.com/bhandariarun/365-365-days/assets/51224267/76a6a503-aa1d-45bf-ba2f-d1fd7c82a431
+    
+<img width="572" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/d22281c7-4c11-45df-9b7d-2126d01c2447">
