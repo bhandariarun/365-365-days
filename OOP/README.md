@@ -192,4 +192,4 @@
         // body of else statement
 
         
-<img width="566" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/958c922f-8b2d-483c-9e8d-0e6f7d569649">
+  <img width="566" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/958c922f-8b2d-483c-9e8d-0e6f7d569649">
