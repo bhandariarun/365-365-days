@@ -193,3 +193,20 @@
 
         
   <img width="566" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/958c922f-8b2d-483c-9e8d-0e6f7d569649">
+
+  ## Python if…elif…else Statement
+    The if...else statement is used to execute a block of code among two alternatives.
+    However, if we need to make a choice between more than two alternatives, we use the if...elif...else statement.
+    Syntax:
+    if condition1:
+        # code block 1
+    
+    elif condition2:
+        # code block 2
+    
+    else: 
+        # code block 3
+
+      
+  <img width="571" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/78b48467-818b-47b3-a141-abbac00f12c0">
+
