@@ -180,4 +180,16 @@
     True - the body of the if statement executes.
     False - the body of the if statement is skipped from execution.
     
-<img width="572" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/d22281c7-4c11-45df-9b7d-2126d01c2447">
+  <img width="572" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/d22281c7-4c11-45df-9b7d-2126d01c2447">
+
+  ## Python if...else Statement
+    An if statement can have an optional else clause. The else statement executes if the condition in the if statement evaluates to False.
+    Syntax:
+    if condition:
+     // body of if statement
+
+    else:
+        // body of else statement
+
+        
+<img width="566" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/958c922f-8b2d-483c-9e8d-0e6f7d569649">
