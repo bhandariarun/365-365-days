@@ -210,3 +210,8 @@
       
   <img width="571" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/78b48467-818b-47b3-a141-abbac00f12c0">
 
+  ## Python Nested if Statements
+    It is possible to include an if statement inside another if statement.
+  
+<img width="572" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/24e7566f-b206-4122-8ca9-6b349b87dc2d">
+
