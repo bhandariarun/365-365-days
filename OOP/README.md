@@ -170,4 +170,12 @@
 
 
 # Python Flow Control
-  ## Python if...else Statement
+  ## Python if Statement
+      An if statement executes a block of code only if the specified condition is met.
+      Syntax: 
+      if condition:
+    // body of if statement
+    Here, if the condition of the if statement is:
+    
+    True - the body of the if statement executes.
+    False - the body of the if statement is skipped from execution.
