@@ -30,7 +30,6 @@
     - Kwagrs : It stands for keyword arguments which are passed along with the values into the functions
 
   ## Python Class and Object
-  - Data hiding using private attributes using underscore as the prefix i.e single _ or double __
 
             class Parrot:
         
@@ -97,6 +96,7 @@
 
 
   ## Python Encapsulation
+    - Data hiding using private attributes using underscore as the prefix i.e single _ or double __
         class Computer:
       
           def __init__(self):
