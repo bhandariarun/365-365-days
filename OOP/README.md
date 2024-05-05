@@ -1,7 +1,7 @@
 # About Object Oriented Paradigm(OOP)
-  - C++ is an object-oriented programming language.
+  - C++, Python is an object-oriented programming language.
     
-      1. Everything within a C++ program is an objects
+      1. Everything within a C++, Python program is an objects
   ## Principles's of OOP :
     1. Encapsulation : Encapsulation is a way to restrict the direct access to some components of an object, 
     so users cannot access state values for all of the variables of a particular object. Encapsulation can 
