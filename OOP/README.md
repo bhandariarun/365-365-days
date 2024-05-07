@@ -23,6 +23,12 @@
   ## Two Types of objects exists :
     - Fields: Store Data
     - Procedure: Store code
+
+  ## Mutable vs Non mutable
+    - Mutable: Objects whose state can be modified after creation are called mutable.Mutable are:
+      List, Dictionaries, Sets
+    - Immutable: Objects whose state cannot be modified after creation are called immutable. Immutable are:
+      integers, floats, strings, tuples, and frozensets
     
 
   ## Args vs Kwargs
