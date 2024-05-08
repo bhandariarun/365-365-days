@@ -231,3 +231,19 @@
     They're paid hourly, at a rate of $15/hour.
     The function below calculates the paycheck based on the number of hours worked. The function is more complicated than with the first example, because the function has more lines of code and comments. Similar to the example above, the function has a single argument (num hours).
 
+    def get_pay(num_hours):
+    // Pre-tax pay, based on receiving $15/hour
+    pay_pretax = num_hours * 15
+    // After-tax pay, based on being in 12% tax bracket
+    pay_aftertax = pay_pretax * (1 - .12)
+    return pay_aftertax
+
+    //Output
+    # Calculate pay based on working 40 hours
+    pay_fulltime = get_pay(40)
+    print(pay_fulltime)
+
+    pay_parttime = get_pay(32)
+    print(pay_parttime)
+    
+
