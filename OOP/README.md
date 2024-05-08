@@ -239,7 +239,7 @@
     return pay_aftertax
 
     //Output
-    # Calculate pay based on working 40 hours
+    //Calculate pay based on working 40 hours
     pay_fulltime = get_pay(40)
     print(pay_fulltime)
 
