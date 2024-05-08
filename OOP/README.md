@@ -221,3 +221,13 @@
   
 <img width="572" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/24e7566f-b206-4122-8ca9-6b349b87dc2d">
 
+
+  ## Functions
+    A function is a block of code designed to perform a specific task.
+    <img width="559" alt="Capture" src="https://github.com/bhandariarun/365-365-days/assets/51224267/d7da1877-14c7-4181-9509-fa2e628bb60f">
+
+    ### Function with arguments:
+         They're in a 12% tax bracket (in other words, 12% of their salary is taken for taxes, and they only take home 88%), and
+    They're paid hourly, at a rate of $15/hour.
+    The function below calculates the paycheck based on the number of hours worked. The function is more complicated than with the first example, because the function has more lines of code and comments. Similar to the example above, the function has a single argument (num hours).
+
