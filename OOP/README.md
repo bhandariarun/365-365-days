@@ -270,3 +270,9 @@
     # Call the function
     print_hello()
 
+  ## List and List Comprehension
+    - List: List in Python represents order sequence of values that enclosed within square brackets '[]'
+    my_list = [item1, item2, item3, ...]
+
+    - List Comprehension:List comprehension provides a concise way to create lists based on existing lists or other iterable objects.
+    new_list = [expression for item in iterable if condition]
