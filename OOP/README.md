@@ -1,4 +1,4 @@
-# About Object Oriented Paradigm(OOP): This is many focused in Python Style
+# About Object Oriented Paradigm(OOP): This is mainly focused in Python Style
   - C++, Python is an object-oriented programming language.
     
       1. Everything within a C++, Python program is an objects
